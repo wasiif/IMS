@@ -66,7 +66,6 @@ The project emphasizes strong backend fundamentals such as secure authentication
 
 ## Project Structure
 
-```
 inventory-management-system/
 ├── auth/                # Authentication (login/logout)
 ├── categories/          # Category CRUD
@@ -171,12 +170,11 @@ The database is designed with normalization and integrity in mind.
 
 ## Screenshots
 
-```md
-![Login](../screenshots/login.png)
-![Dashboard](../screenshots/Dashboard.png)
-![Categories](../screenshots/Categories.png)
-![Products](../screenshots/Products.png)
-![Sales](../screenshots/Sales.png)
+![Login](Screenshots/login.png)
+![Dashboard](Screenshots/Dashboard.png)
+![Categories](Screenshots/Categories.png)
+![Products](Screenshots/Products.png)
+![Sales](Screenshots/Sales.png)
 
 ---
 
