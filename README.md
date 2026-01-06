@@ -66,7 +66,7 @@ The project emphasizes strong backend fundamentals such as secure authentication
 
 ## Project Structure
 
-```text
+```
 inventory-management-system/
 ├── auth/                # Authentication (login/logout)
 ├── categories/          # Category CRUD
