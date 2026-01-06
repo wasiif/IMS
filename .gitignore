@@ -1,0 +1,44 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE / editor folders
+.vscode/
+.idea/
+nbproject/
+*.sublime-workspace
+*.sublime-project
+
+# PHP / Composer
+/vendor/
+composer.phar
+composer.lock
+.phpunit.result.cache
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+cache/
+sessions/
+uploads/
+
+# Node / frontend
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Database / build artifacts
+*.sqlite
+*.sqlite3
+
+# Misc
+Thumbs.db
